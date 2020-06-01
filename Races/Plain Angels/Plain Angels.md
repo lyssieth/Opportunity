@@ -13,6 +13,8 @@ The primary source of Plain Angels are dead humanoids, from just humans to elves
 
 ### Appearance
 
+Despite their previous lives, the Plain Angels remain very close to humans.
+
 #### Height
 
 Height is based on their previous life, or parents, whichever is applicable.

@@ -13,6 +13,8 @@ The primary source of True Angels are 'promoted' Plain Angels, those who display
 
 ### Appearance
 
+Despite their previous lives, the True Angels remain very close to humans.
+
 #### Height
 
 Height is based on their previous Plain Angel, or parents, whichever is applicable.
