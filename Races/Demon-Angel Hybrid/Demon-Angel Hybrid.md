@@ -104,7 +104,7 @@ Likely victims of abuse by either parents or those who find them before they rea
 ### Fetishes
 
 Dominance and submissiveness is based on which parent's genes are more dominant. If it's the Demon's, they are likely to lean much more towards submissiveness, while if it's the Angel's, they are likely to lean towards dominance. In a few cases it could be roughly somewhere in the middle.
-An unnatural enjoyment of pain received from others, often viewed as over the top even by demons.
+An unnatural enjoyment of pain received from others, often viewed as over the top even by  masochists. To them it doesn't matter whether it's mental or physical.
 
 ---
 
