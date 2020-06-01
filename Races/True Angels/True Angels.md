@@ -73,7 +73,7 @@ Fast regeneration and energy replenishment. Quite easy to predict.
 
 ##### Mental
 
-Weak to having their past used as blackmail, or as an attack. Weak to psychological attacks. Llikely to get tunnel-visioned if killed multiple times by the same enemy.
+Weak to having their past used as blackmail, or as an attack. Weak to psychological attacks. Likely to get tunnel-visioned if killed multiple times by the same enemy.
 
 ---
 
