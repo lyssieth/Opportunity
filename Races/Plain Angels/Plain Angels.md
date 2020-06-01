@@ -51,7 +51,7 @@ On average, much stronger, faster and more agile than humans and elves. Over hal
 
 #### Mental Abilities
 
-Intelligent and wise, but rarely with much important knowledge. Mildly resistant to social engineering and magical or natural mind manipulation. They learn quickly, which is advantageous for life.
+Intelligent and decently wise, but rarely with much important knowledge. Mildly resistant to social engineering and magical or natural mind manipulation. They learn quickly, which is advantageous for life.
 They can alter their perception of time down to about $\frac 1 3$ of realtime. The full amount can vary by a few percent. During this both eyes glow softly, though this is overridden by ability usage. The glow of the halo dims during this as well.
 
 #### Magical Abilities
