@@ -1,7 +1,6 @@
 #!/bin/sh
 
-find src -name '*.md' | xargs wc -l | sort -nr
 echo "Words"
-find src -name '*.md' | xargs wc -w | sort -nr
+find . -name '*.md' | xargs wc -w | sort -nr
 echo "Characters"
-find src -name '*.md' | xargs wc -m | sort -nr
+find . -name '*.md' | xargs wc -m | sort -nr
