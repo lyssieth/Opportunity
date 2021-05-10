@@ -4,7 +4,7 @@
 
 ---
 
-<sub>Author's Note: Probably Lawful Evil, subject to change though.</sub>
+<sub>Author's Note: Alignment's Lawful Evil, subject to change though.</sub>
 
 ### General Information
 
@@ -62,6 +62,6 @@ They see her as their leader. Someone to look up to. Also pretty afraid.
 
 ### Appendix
 
-[Lady Ciaran, Main Form (png)](https://cdn.discordapp.com/attachments/718730899969277962/718967584656982059/unknown.png)
+[Lady Ciaran, "Main Form" (png)](https://cdn.discordapp.com/attachments/718730899969277962/718967584656982059/unknown.png)
 
-[Lady Ciaran, Combat Form (png)](https://cdn.discordapp.com/attachments/718730899969277962/718976492247187456/unknown.png)
+[Lady Ciaran, "Combat Form" (png)](https://cdn.discordapp.com/attachments/718730899969277962/718976492247187456/unknown.png)
