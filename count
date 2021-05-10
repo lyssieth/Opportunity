@@ -1,6 +1,0 @@
-#!/bin/sh
-
-echo "Words"
-find . -name '*.md' | xargs wc -w | sort -nr
-echo "Characters"
-find . -name '*.md' | xargs wc -m | sort -nr
