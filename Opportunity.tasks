@@ -1,6 +1,11 @@
 Characters:
     Deities:
-    ✔ Lady Ciaran @done (7/15/2020, 4:07:44 AM)
+        ✔ Lady Ciaran @done (7/15/2020, 4:07:44 AM)
+        ☐ Lilith
+    
+    Others:
+        ☐ Ila Elarangarde
+        ☐ Kasyrra Gildraen
 
 Races:
     Material Plane:
@@ -27,10 +32,13 @@ Races:
     
     Creatures:
         ☐ Generic Document
-        ☐ Dragons
+        
+        Dragons:
+            ☐ Generic Document
     
     Heavenly Plane:
         ☐ Deities
+        ☐ Angels
         ☐ Arenius
         ☐ High Arenius
     
@@ -46,6 +54,11 @@ Races:
         ✔ Demon-Angel Hybrid @done (31/07/2020, 16:49:51)
 
 World:
+    ☐ Map
+    ☐ Continent names
+    ☐ Major Travel Methods
+    ☐ Major Factions
+    ☐ Major Countries
 
 Magic:
     Laws:
