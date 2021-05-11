@@ -11,6 +11,11 @@ Negative affinity generally means weakness or, in extreme cases, repulsion from 
 
 'Opposite' elements don't affect the affinity of the 'opposite'
 
+## Combinations and Interactions
+
+Elements can be combined, and they will interact to enhance or change the effect.  
+Almost all elements can combine, even elements which would oppose each other, though one would need great affinity and control to combine opposing elements.
+
 ## Elements List
 
 These are in the format of: `Element (potential usages/capabilities)`
@@ -56,3 +61,7 @@ These are in the format of: `Element (potential usages/capabilities)`
 
 - [Nyra](Nyra.md) (a more powerful alternative for any other kind of magic, excluding Void and Godly)
 - [Void](Void.md) (multi-purpose, magic resistance)
+
+## Opposing Elements
+
+TODO
