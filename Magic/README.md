@@ -8,4 +8,10 @@ Ability and usage of magic depends on the following factors:
 - mana control
 - imagination
 
-==THIS IS A MAJOR TODO==
+## Elements
+
+See [Elements/](Elements/)
+
+## Laws
+
+See [Laws/](Laws/)
