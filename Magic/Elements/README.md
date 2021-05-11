@@ -38,7 +38,7 @@ These are in the format of: `Element (potential usages/capabilities)`
 
 #### Deities
 
-- Godly (reality manipulation, hierarchy)
+- [Godly](Godly.md) (reality manipulation, hierarchy)
 
 #### Heavenly Plane
 
