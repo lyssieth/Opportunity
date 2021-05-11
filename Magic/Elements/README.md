@@ -32,7 +32,7 @@ These are in the format of: `Element (potential usages/capabilities)`
 - Lightning (lightning, offense)
 - Sound (muffling sound, amplifying sound)
 - Spatial (storage, portals, teleportation)
-- Ahshaka (mana manipulation, enchanting)
+- [Ahshaka](Ahshaka.md) (mana manipulation, enchanting)
 
 ### Racially Restricted Elements
 
