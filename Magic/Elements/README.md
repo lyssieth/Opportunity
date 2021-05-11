@@ -82,6 +82,6 @@ If an unique element (ones with a link) has any opposing elements or unique inte
 
 ### Angelic and Demonic
 
-They interact destructively, being the hardest element to combine successfully.
+They interact destructively (think matter/antimatter), being the hardest elements to combine successfully.
 
 Both can pierce the other's defense, and both sides generally only use their respective element for offense rather than defense.
