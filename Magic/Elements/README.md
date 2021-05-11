@@ -4,7 +4,7 @@ The main elements are described in this file, with some of the unique ones getti
 
 ## Affinities
 
-Affinities are a range from `-100` to `Infinity`, where anything above 100 means there's no detriment to using the element.
+Affinities are a range from `-100` to `Infinity`, where anything above 100 means there's no detriment to using the element. The benefits are described per-element (TODO)
 
 If affinity is below 0, one is unable to use that element at all. Generally for most races, affinities fall between 20 and 100, with exceptions.
 
