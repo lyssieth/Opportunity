@@ -6,7 +6,8 @@ The main elements are described in this file, with some of the unique ones getti
 
 Affinities are a range from `-100` to `Infinity`, where anything above 100 means there's no detriment to using the element. The benefits are described per-element (TODO)
 
-If affinity is below 0, one is unable to use that element at all. Generally for most races, affinities fall between 20 and 100, with exceptions.
+If affinity is at or below 0, one is unable to use that element at all. Generally for most races, affinities fall between 20 and 100, with exceptions.  
+Negative affinity generally means weakness or, in extreme cases, repulsion from an element. It is extremely rare for it to reach even -10.
 
 'Opposite' elements don't affect the affinity of the 'opposite'
 
