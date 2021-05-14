@@ -2,7 +2,7 @@
 
 <sub>Author's Note: This is a first draft, edits are likely going to happen.</sub>
 
-An element which allows the manipulation of mana, and enchanting items which are receptive to enchantments. It also allows sensing mana and mana signatures.  
+An element which allows the manipulation and sensing of mana, as well as enchanting items which are receptive to enchantments. It also allows sensing mana and mana signatures.  
 This element rarely has users above 35 affinity, and most continents don't even have double digits of people who are at an affionity greater than 55.  
 Since affinity isn't something that can be predicted before a child's birth, several countries have put in place mandatory affinity measurements once the child becomes an adult.
 
