@@ -1,6 +1,6 @@
 # Continent Names
 
-The colors are as per `Opportunity.wonderdraft_map`
+The colors are as per `Opportunity.wonderdraft_map` or `Opportunity.png`
 
 Blue: Porloros  
 Cyan: Liricore  
