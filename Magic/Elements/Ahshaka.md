@@ -16,6 +16,14 @@ The initial process is much the same as casting, however one doesn't expend thei
 
 Certain users have managed to not just manipulate, but change the element of the magic that was manipulated, however this art has been lost to time and the slowly declining amount of known Ahshaka users.
 
+## Resistance to Manipulation and Sensing
+
+The elements of Nyra and Void are extremely resistant to manipulation.
+
+Nyra, despite being an element of "emulation", is resistant to manipulation by outside forces.
+
+Void is simply extremely resistant to all other magic.
+
 ## Enchanting
 
 Enchanting is the process of inscribing runes upon the surface of a material, which when fed with ambient mana, can be used to power magic that'd normally require casting. An enchanter doesn't need any affinity in the element they enchant, *but* a lack of affinity makes it harder to be knowledgeable enough on the element to inscribe the correct runes.
