@@ -15,3 +15,7 @@ See [Elements/](Elements/)
 ## Laws
 
 See [Laws/](Laws/)
+
+## Mana Purity
+
+<sub>Author's Note: some numerical values and shit for purity.</sub>
