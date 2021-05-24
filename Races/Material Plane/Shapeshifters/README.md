@@ -22,7 +22,7 @@ Dependent on their form and race, but a bit amplified.
 
 Capable of having many affinities.
 
-Incapable of using Ahkasha, however they can have affinity for it.
+Incapable of using Ahshaka, however they can have affinity for it.
 
 ### Unique
 
