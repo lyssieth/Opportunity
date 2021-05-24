@@ -1,5 +1,14 @@
 {
-    "cSpell.enableFiletypes": [
-        "markdown"
+    "spellright.language": [
+        "en_CA-large",
+        "en_CA",
+        "en_US-large",
+        "en_US"
+    ],
+    "spellright.documentTypes": [
+        "markdown",
+        "latex",
+        "plaintext",
+        "todo"
     ]
 }
