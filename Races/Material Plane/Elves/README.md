@@ -24,4 +24,6 @@ Much more capable in all aspects compared to humans.
 
 ### Magical
 
-Elven Magic is restricted by the [Universal Constant](../../../Magic/Laws/Universal%20Constant.md)
+<sub>Author's Note: pending rework</sub>
+
+Elven Magic is restricted by the [Universal Constant](../../../Magic/Laws/Universal%20Constant.md).

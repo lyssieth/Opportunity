@@ -37,6 +37,7 @@ These are in the format of: `Element (potential usages/capabilities)`
     - Increases the space available for storage
     - Increases range for teleportation
     - Increases range and size of portals
+- Creation (creating things)
 - [Ahshaka](Ahshaka.md) (mana manipulation, enchanting)
   - \>100 Affinity Effects:
     - Decreases decay speed of enchantments
