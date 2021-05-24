@@ -1,7 +1,5 @@
 # Void
 
-<sub>Author's Note: This is a first draft, edits are likely going to happen.</sub>
-
 An element strictly controlled by its deity, Elaran. It is a multi-purpose element, which can take the position of a lot of elements, in all major categories (offense, defense, support).
 
 <sub>Author's Note: Only its unique features are listed in this file, for now.</sub>
@@ -49,5 +47,9 @@ Whenever the Void magic detects a lethal attack, Void Armor will automatically b
 One can summon Elaran from the Void Plane. However, they cannot stick around very long, simply because they do not wish to.
 
 Elaran's unique effects and abilities will be described in their own file.
+
+### Void Wings
+
+ONe can create prehensile feathered wings out of pure Void magic. They can be used as normal wings, or modified and moved freely to attack or defend.
 
 <sub>Author's Note: there are more abilities under the Blessing, but I need to work on them more.</sub>
