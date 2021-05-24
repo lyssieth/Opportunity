@@ -28,6 +28,7 @@ These are in the format of: `Element (potential usages/capabilities)`
 - Fire (fire, heat, explosions, offense)
 - Ice (piercing, cold, ice, barriers, offense)
 - Water (water, barriers, offense)
+- Air (air, wind, movement, defense)
 - Earth (construction, barriers, piercing, smashing, offense)
 - Lightning (lightning, offense)
 - Sound (muffling sound, amplifying sound)
