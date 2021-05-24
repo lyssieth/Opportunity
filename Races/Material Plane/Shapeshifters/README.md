@@ -35,6 +35,8 @@ Ranged form acquisition is possible, however it is extremely rare (1/100000).
 They cannot be killed with physical attacks while transformed, however if they lose consciousness and receive an attack, there is a high chance they will return to their base form.  
 Magical attacks, however, can kill them.
 
+Depending on the magnitude of changes, the time it takes to shapeshift ranges between an instant, up to a few seconds. During this time, they are treated as being in their base form, thus vulnerable.
+
 #### Affinity Control
 
 In rare cases (1/10000), a Shapeshifter can move their affinity scores around.
