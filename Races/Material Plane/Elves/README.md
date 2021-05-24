@@ -12,7 +12,7 @@ Average adult height ranges from 5ft10 to 7ft.
 
 ## Age
 
-The average for any elf is between 700 to millennia. The true range depends on the sub-race.
+The average for any elf is between 700 to several millennia. The true range depends on the sub-race.
 
 ## Abilities
 
