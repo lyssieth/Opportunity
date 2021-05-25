@@ -12,7 +12,7 @@ Somewhat shorter than normal Elves, randing from 5ft8 to 6ft7.
 
 ## Age
 
-The average is around 80 millennia, with the lower end being 60 and the higher being above a thousand. They are the second-longest in terms of lifespan.
+The average is around 80 millennia, with the lower end being 60 millennia, and the higher being above a thousand millennia (however this is very rare). They are the second-longest in terms of lifespan.
 
 ## Abilities
 
