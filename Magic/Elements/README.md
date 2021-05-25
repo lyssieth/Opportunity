@@ -32,12 +32,13 @@ These are in the format of: `Element (potential usages/capabilities)`
 - Earth (construction, barriers, piercing, smashing, offense)
 - Lightning (lightning, offense)
 - Sound (muffling sound, amplifying sound)
-- Spatial (storage, portals, teleportation)
+- Spatial (storage, portals, teleportation, realms) <sub>Author's Note: Pending it's own file...</sub>
   - \>100 Affinity Effects:
     - Increases the space available for storage
     - Increases range for teleportation
     - Increases range and size of portals
-- Creation (creating things)
+    - Increases control over realm creation
+- [Creation](Creation.md) (creating things)
 - [Ahshaka](Ahshaka.md) (mana manipulation, enchanting)
   - \>100 Affinity Effects:
     - Decreases decay speed of enchantments
