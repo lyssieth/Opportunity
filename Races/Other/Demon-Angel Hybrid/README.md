@@ -6,9 +6,9 @@
 
 ### General Information
 
-An extremely rare mix, in most cases a result of vicious rape by the Demon. And even then, the chance of a live birth is next to zero. Abortion is the most common next step, as this mix is viewed by Angels as absolute demonic heresy. If one manages to survive, they are likely cast out and forced to live out their lives on the Mortal Plane, or amongst Demons.
+An extremely rare mix, in most cases a result of vicious rape by the Demon. And even then, the chance of a live birth is next to zero. Abortion is the most common next step, as this mix is viewed by Angels as absolute demonic heresy. If one manages to survive, they are likely cast out and forced to live out their lives on the Material Plane, or amongst Demons.
 These hybrids have not been observed between Lilin and Arenius yet, but the chances of sexual relations between those subtypes are an infinitesimal amount away from zero. It is, however, possible for one such hybrid to exist, given the chain of extremely low chances all passing successfully.
-And, of course, Elder Lilin and High Arenius are even closer to zero than standard Lilin/Arenius. This comes down to the fact there's only 11 Elder Lilin and less than 10 High Arenius.
+And, of course, Elder Lilin and High Arenius are even closer to zero than standard Lilin/Arenius. This comes down to the fact there's only 13 Elder Lilin and less than 10 High Arenius.
 
 ---
 
