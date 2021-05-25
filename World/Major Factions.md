@@ -2,9 +2,9 @@
 
 ## Liricore
 
-### Six Elven Kings
+### Five Elven Kings
 
-Over half of the continent is owned by the Six Elven Kings, a faction consisting of six individual kingdoms all allied together. They are generally very friendly, and have had talks of becoming one large nation instead of six kingdoms. There are a lot of elf sub-species here, though notably missing are Draco-elves.
+Over half of the continent is owned by the Five Elven Kings, a faction consisting of five individual kingdoms all allied together. They are generally very friendly, and have had talks of becoming one large nation instead of five kingdoms. There are a lot of elf sub-species here, though notably missing are Draco-elves.
 
 ### Lilrik Alliance
 

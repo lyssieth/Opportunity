@@ -1,6 +1,14 @@
 # Elves
 
-A more common race on the Material Plane, but not the most common. They have some sub-races, and are usually viewed as superior to humans.
+A more common race on the Material Plane, but not the most common. They have some sub-races, and are usually viewed (by themselves) as superior to humans.
+
+## Sub-races
+
+- [Dark Elves](Dark%20Elves.md)
+- [High Elves](High%20Elves.md)
+- [Draco-Elves](Draco-Elves.md)
+- [Moon Elves](Moon%20Elves.md)
+- [Sun Elves](Sun%20Elves.md)
 
 ## Appearance
 
@@ -8,22 +16,18 @@ Just Elves from generic fantasy.
 
 ### Height
 
-Average adult height ranges from 5ft10 to 7ft.
+Average adult height ranges from 6ft0 to 7ft.
 
 ## Age
 
-The average for any elf is between 700 to several millennia. The true range depends on the sub-race.
+The average for any elf is between 700 to around 3 millennia at the higher end. The true range depends on the sub-race.
 
 ## Abilities
 
-On average, on the same level as a very high-level human.
-
 ### Physical
 
-Much more capable in all aspects compared to humans.
+Much more agile and dextrous compared to humans, but weaker in terms of strength and durability.
 
 ### Magical
 
-<sub>Author's Note: pending rework</sub>
-
-Elven Magic is restricted by the [Universal Constant](../../../Magic/Laws/Universal%20Constant.md).
+They generally have fewer, but stronger, affinities. Generic Elves have no preference towards any type of magic.
