@@ -76,6 +76,7 @@ These are in the format of: `Element (potential usages/capabilities)`
 
 ### Otherwise Restricted Elements
 
+- [Chrono](Chrono.md) (time manipulation)
 - [Nyra](Nyra.md) (a more powerful alternative for any other kind of magic, excluding Void and Godly)
 - [Void](Void.md) (multi-purpose, magic resistance)
 
