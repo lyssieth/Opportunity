@@ -52,4 +52,9 @@ Elaran's unique effects and abilities will be described in their own file.
 
 ONe can create prehensile feathered wings out of pure Void magic. They can be used as normal wings, or modified and moved freely to attack or defend.
 
+### Death Prevention
+
+Only ever seen among the `Elarangarde` bloodline, and even then it is extremely rare.  
+If the current heir or head (heir prioritized) of the `Elarangarde` bloodline also has Elaran's Blessing, and extreme luck, they will be unable to die. They can still feel the pain, and their body and soul can be destroyed, however they will completely resurrect five hours after their death, with no side effects. There is no way to go against this effect without Elaran's permission.
+
 <sub>Author's Note: there are more abilities under the Blessing, but I need to work on them more.</sub>
