@@ -20,7 +20,7 @@ It can also take the form of a two-handed one.
 
 ### Void Bow
 
-It takes the form of a shortbow, with arrows generated from magic as the bowstring is drawn. The arrows can be fired out at speeds greater than most normal magic can reach, with no external effects being able to block it.
+It takes the form of a short-bow, with arrows generated from magic as the bowstring is drawn. The arrows can be fired out at speeds greater than most normal magic can reach, with no external effects being able to block it.
 
 ### Void Staff
 

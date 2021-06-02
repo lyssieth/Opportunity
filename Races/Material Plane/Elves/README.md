@@ -26,7 +26,7 @@ The average for any elf is between 700 to around 3 millennia at the higher end. 
 
 ### Physical
 
-Much more agile and dextrous compared to humans, but weaker in terms of strength and durability.
+Much more agile and dexterous compared to humans, but weaker in terms of strength and durability.
 
 ### Magical
 

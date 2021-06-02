@@ -27,7 +27,7 @@ Physically very strong, and fast. Flexibility and dexterity are also high. Very 
 ### Mental Abilities
 
 Very intelligent, and very resistant to mental attacks as well. Their learning speed is massively increased.  
-They can alter their perception of time down to about `1/35` of realtime, however it can vary between `1/30` and `1/40`, depending on their skills and mana purity.
+They can alter their perception of time down to about `1/35` of real-time, however it can vary between `1/30` and `1/40`, depending on their skills and mana purity.
 
 ### Magical Abilities
 

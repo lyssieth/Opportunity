@@ -14,7 +14,7 @@ Her eyes seem to have no life to them, and her face not voice express no emotion
 
 ## Abilities
 
-Almost all of her strength (physical, magical, mental) appeared after the events of [The Incident](#the-incident-11). Befoe that, she was simply an average human with very strong Void affinity, and Elaran's Blessing.
+Almost all of her strength (physical, magical, mental) appeared after the events of [The Incident](#the-incident-11). Before that, she was simply an average human with very strong Void affinity, and Elaran's Blessing.
 
 ### Physical
 
@@ -57,7 +57,7 @@ Don't really care.
 ### Early Years (0-9)
 
 Ila was born to the King and Queen of Miar Kila. It is a mostly-human kingdom. Its location is in the Shi'ar Mountains of the Porloros Continent. Surrounded by many other kinds of kingdoms, she had to learn many languages.
-Ila was like many other kids. Young, curious about everything. Unlike some, she was great at everything, from magic to various topics in school, et cetera.
+Ila was like many other kids. Young, curious about everything. Unlike some, she was great at everything, from magic to various topics in school, etc.
 The most noteworthy incident is her 7th birthday, when she first met the dragon, within the Void Plane. The dragon would later come to use the name Elaran. They were happy together, for a while. Most of her time was still spent outside the Void Plane, yet she visited often. Her magic developed after this date as well.
 
 ### The Collapse (10)

@@ -1,16 +1,10 @@
 {
     "spellright.language": [
-        "en_CA-large",
-        "en_CA",
-        "en_GB-large",
-        "en_GB",
-        "en_US-large",
-        "en_US"
+        "en_CA"
     ],
     "spellright.documentTypes": [
+        "markdown",
         "latex",
-        "plaintext",
-        "todo",
-        "md"
-    ]
+        "plaintext"
+    ],
 }

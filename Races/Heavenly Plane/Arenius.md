@@ -1,6 +1,6 @@
 # Arenius
 
-The primary 'citizen' race of the Heavenly Plane. They're the soldiers, but also leaders, shopkeeps, and many other roles. Upon death, they can be resurrected, but it is expensive to do so.
+The primary 'citizen' race of the Heavenly Plane. They're the soldiers, but also leaders, shopkeepers, and many other roles. Upon death, they can be resurrected, but it is expensive to do so.
 
 Arenius are generally born from either a forcibly-evolved True Angel, or simply from their parents. Their appearances are genetically decided.
 
@@ -27,7 +27,7 @@ Physically very strong, and fast. Flexibility and dexterity are also high. Very 
 ### Mental Abilities
 
 Very intelligent, and pretty resistant to mental attacks as well. Their learning speed is increased.  
-They can alter their perception of time down to about `1/15` of realtime, however it can vary between `1/12` and `1/18`, depending on their parents and luck, and skills.
+They can alter their perception of time down to about `1/15` of real-time, however it can vary between `1/12` and `1/18`, depending on their parents and luck, and skills.
 
 ### Magical Abilities
 
@@ -38,7 +38,7 @@ Magically very capable. Their primary affinity is of course Angelic, but they ge
 Arenius with a halo gain a few bonuses. Such as:
 
 - being much more powerful magically
-- being more capaable of slowing their time perception
+- being more capable of slowing their time perception
 - being tougher physically
 
 ### Weaknesses and Bonuses

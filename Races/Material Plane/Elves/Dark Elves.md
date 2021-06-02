@@ -8,7 +8,7 @@ Somewhat more ashen and dark in skin and hair colors, with eyes between dark red
 
 ## Age
 
-They live mucb longer lives than normal Elves, ranging from 4 to 10+ millennia.
+They live much longer lives than normal Elves, ranging from 4 to 10+ millennia.
 
 ## Abilities
 

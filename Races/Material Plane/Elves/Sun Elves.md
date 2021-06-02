@@ -18,7 +18,7 @@ They are a bit stronger and more durable than normal Elves, but nowhere near Dra
 
 ### Magical
 
-Preference towards Fire, Arcane, Earth and Spatial. Generally 2-3 strng affinities (1 from preferences, 1-2 from non-preferences), and many weaker ones.
+Preference towards Fire, Arcane, Earth and Spatial. Generally 2-3 strong affinities (1 from preferences, 1-2 from non-preferences), and many weaker ones.
 
 ### Unique
 

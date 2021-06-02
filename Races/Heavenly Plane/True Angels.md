@@ -47,7 +47,7 @@ Equivalent to Plain Angels.
 ### Mental Abilities
 
 Intelligent and wise. Somewhat more resistant to social engineering and magical or natural mind manipulation, compared to Plain Angels. They learn faster than Plain Angels.
-They can alter their perception of time down to about $\frac 3 10$ of realtime. The full amount can vary by a few percent. During this both eyes glow softly, though this is overridden by ability usage. The glow of the halo dims during this as well.
+They can alter their perception of time down to about `3/10` of real-time. The full amount can vary by a few percent. During this both eyes glow softly, though this is overridden by ability usage. The glow of the halo dims during this as well.
 
 ### Magical Abilities
 

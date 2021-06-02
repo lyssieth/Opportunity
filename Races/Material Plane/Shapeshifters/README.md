@@ -28,7 +28,7 @@ Incapable of using Ahshaka, however they can have affinity for it.
 
 #### Shapeshifting
 
-Most members of this race can shapeshift into inanimate objects relatively freely, with sie constraints based on their training in shapeshifting. Living beings, however, require them having had physical contact with the race before being able to transform into it. And, to be able to freely modify their appearance, they need to have a deep understanding of the race, as well as be well-trained in shapeshifting.
+Most members of this race can shapeshift into inanimate objects relatively freely, with some constraints based on their training in shapeshifting. Living beings, however, require them having had physical contact with the race before being able to transform into it. And, to be able to freely modify their appearance, they need to have a deep understanding of the race, as well as be well-trained in shapeshifting.
 
 Ranged form acquisition is possible, however it is extremely rare (1/100000).
 

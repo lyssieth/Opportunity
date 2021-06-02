@@ -1,6 +1,6 @@
 # Moon Elves
 
-A rare sub-type of Elf, only able to be born uner a full moon.
+A rare sub-type of Elf, only able to be born under a full moon.
 
 ## Appearance
 
@@ -8,7 +8,7 @@ Very pale, with white hair (sometimes with light bluish accents), and blue or wh
 
 ### Height
 
-Somewhat shorter than normal Elves, randing from 5ft8 to 6ft7.
+Somewhat shorter than normal Elves, ranging from 5ft8 to 6ft7.
 
 ## Age
 

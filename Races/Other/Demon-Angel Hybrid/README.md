@@ -62,7 +62,7 @@ Stronger than an average Angel or Demon, as well as faster and more agile. Most 
 #### Mental Abilities
 
 A strong mind in both intelligence and wisdom. Strong capacity to resist mental manipulation, whether social engineering, magical, or even natural. Very fast learners.
-They, as with both Angels and Demons, can slow down their perception of time down to about $\frac 1 5$ of realtime. This is slower than both Angels and Demons, and can also vary by a few percent. During this, both eyes will glow faintly. Ability usage will override this.
+They, as with both Angels and Demons, can slow down their perception of time down to about `1/10` of real-time. This is slower than both general levels of Angel and Demon, reaching the level of an Arenius, and can also vary by a few percent. During this, both eyes will glow faintly. Ability usage will override this.
 
 #### Magical Abilities
 

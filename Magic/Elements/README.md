@@ -42,7 +42,7 @@ These are in the format of: `Element (potential usages/capabilities)`
 - [Ahshaka](Ahshaka.md) (mana manipulation, enchanting)
   - \>100 Affinity Effects:
     - Decreases decay speed of enchantments
-    - Decreases size of enchamtents (increasing the amount that can be placed on one item, outside of changing the item)
+    - Decreases size of enchantments (increasing the amount that can be placed on one item, outside of changing the item)
     - Increases the amount of mana that can be manipulated
 
 ### Racially Restricted Elements
