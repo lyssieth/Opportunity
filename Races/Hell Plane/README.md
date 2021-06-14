@@ -1,6 +1,6 @@
 # Hell Plane
 
-- [Generic Demon](Generic%20Demon.md)
+- [Generic Demon](Demons.md)
 - [Fiend](Fiend.md)
 - [Imp](Imp.md)
 - [Incubus](Incubus.md)
