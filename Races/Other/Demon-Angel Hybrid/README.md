@@ -41,7 +41,7 @@ Relatively normal. Slightly sharper and longer nails on the demonic side. Skin o
 
 ##### Wings
 
-==TBD==
+The right wing is that of a demon, and the left is that of an angel. There can are several cases where multiple wings can happen.
 
 ##### Tail
 
