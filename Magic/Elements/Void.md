@@ -50,7 +50,7 @@ Elaran's unique effects and abilities will be described in their own file.
 
 ### Void Wings
 
-ONe can create prehensile feathered wings out of pure Void magic. They can be used as normal wings, or modified and moved freely to attack or defend.
+One can create prehensile feathered wings out of pure Void magic. They can be used as normal wings, or modified and moved freely to attack or defend.
 
 ### Death Prevention
 
