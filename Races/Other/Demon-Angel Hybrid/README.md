@@ -26,14 +26,14 @@ For the following information, the right side will be the Demon side.
 
 ##### Head
 
-A line of horns in a half-circle along the top of their head &mdash; anywhere from just 2 to 6 &mdash; on the right side. Both ends of which connect into the halo on the left side, which, while it glows, darkens noticeably in the centimeter of so along the center line.
+A line of horns in a half-circle along the top of their head &mdash; anywhere from just 2 to 6 &mdash; on the right side. Both ends of which connect into the halo on the left side, which, while it glows, darkens noticeably in the centimetre of so along the centre line.
 
 A Demonic eye &mdash; usually red or purple &mdash; on the right. It glows whenever they use Demonic magic, also leaving a trail if in motion.
 The other eye is that of an Angel &mdash; either golden or a lighter shade of blue, teal, or green &mdash; on the left. It glows whenever they use Angelic magic, again leaving a trail if in motion.
 
 Occasionally cracks are visible after extreme power usage, starting near the eyes (specifically whichever eye is associated with the power) and continuing outwards. This recovers slowly over time &mdash; from days to weeks &mdash; depending on severity.
 
-Hair is split down the middle along a rough transition, with the right side usually dark. Most commonly blacks and reds, though there are cases of purple and even a flame-like gradient. On the left, it's light colors. Variants of blonde, with very few cases of other light colors, like a white-ish pink or very light blues and greens.
+Hair is split down the middle along a rough transition, with the right side usually dark. Most commonly blacks and reds, though there are cases of purple and even a flame-like gradient. On the left, it's light colours. Variants of blonde, with very few cases of other light colours, like a white-ish pink or very light blues and greens.
 
 ##### Torso and Arms
 
@@ -104,7 +104,7 @@ Likely victims of abuse by either parents or those who find them before they rea
 ### Fetishes
 
 Dominance and submissiveness is based on which parent's genes are more dominant. If it's the Demon's, they are likely to lean much more towards submissiveness, while if it's the Angel's, they are likely to lean towards dominance. In a few cases it could be roughly somewhere in the middle.
-An unnatural enjoyment of pain received from others, often viewed as over the top even by  masochists. To them it doesn't matter whether it's mental or physical.
+An unnatural enjoyment of pain received from others, often viewed as over the top even by masochists. To them, it doesn't matter whether it's mental or physical.
 
 ---
 
@@ -118,7 +118,7 @@ Viewed as demonic heretics and hunted without prejudice. There are groups dedica
 
 #### Demonic Opinion
 
-While they are viewed as lower than a Fallen, they are still seen as equivalent to a Demon, and thus allowed free access to Hell, and its many opportunities for safety or even a "normal" life.
+While they are viewed as lower than a Fallen, they are still seen as equivalent to a Demon, and thus allowed free access to Hell, and its many opportunities for safety or even a “normal” life.
 
 #### Gods' Opinion
 
