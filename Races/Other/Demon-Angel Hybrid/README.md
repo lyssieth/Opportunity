@@ -26,14 +26,14 @@ For the following information, the right side will be the Demon side.
 
 ##### Head
 
-A line of horns in a half-circle along the top of their head &mdash; anywhere from just 2 to 6 &mdash; on the right side. Both ends of which connect into the halo on the left side, which, while it glows, darkens noticeably in the centimetre of so along the centre line.
+They generally have a line of horns along the demonic side of their head, with the rearmost horn extending out to form a circle, akin to the appearance of a halo. The colour of the horn becomes golden as well.
 
 A Demonic eye &mdash; usually red or purple &mdash; on the right. It glows whenever they use Demonic magic, also leaving a trail if in motion.
 The other eye is that of an Angel &mdash; either golden or a lighter shade of blue, teal, or green &mdash; on the left. It glows whenever they use Angelic magic, again leaving a trail if in motion.
 
 Occasionally cracks are visible after extreme power usage, starting near the eyes (specifically whichever eye is associated with the power) and continuing outwards. This recovers slowly over time &mdash; from days to weeks &mdash; depending on severity.
 
-Hair is split down the middle along a rough transition, with the right side usually dark. Most commonly blacks and reds, though there are cases of purple and even a flame-like gradient. On the left, it's light colours. Variants of blonde, with very few cases of other light colours, like a white-ish pink or very light blues and greens.
+Their Hair is split down the middle along a rough transition, with the right side usually dark. Most commonly blacks and reds, though there are cases of purple and even a flame-like gradient. On the left, it's light colours. Variants of blonde, with very few cases of other light colours, like a white-ish pink or very light blues and greens.
 
 ##### Torso and Arms
 
