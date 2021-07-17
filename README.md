@@ -4,20 +4,20 @@ Opportunity is my slowly building fantasy universe project.
 
 ## Characters
 
-See [`Characters/`](Characters/README.md)
+See [`Characters/`](./Characters/)
 
 ## Magic
 
-See [`Magic/`](Magic/README.md)
+See [`Magic/`](./Magic/)
 
 ## Technology
 
-See [`Technology/`](Technology/README.md)
+See [`Technology/`](./Technology/)
 
 ## Races
 
-See [`Races/`](Races/README.md)
+See [`Races/`](./Races/)
 
 ## World
 
-See [`World/`](World/README.md)
+See [`World/`](./World/)
