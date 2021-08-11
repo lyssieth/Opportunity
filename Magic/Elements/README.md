@@ -38,8 +38,8 @@ These are in the format of: `Element (potential usages/capabilities)`
     - Increases range for teleportation
     - Increases range and size of portals
     - Increases control over realm creation
-- [Creation](Creation.md) (creating things)
-- [Ahshaka](Ahshaka.md) (mana manipulation, enchanting)
+- [Creation](/Creation.md) (creating things)
+- [Ahshaka](/Ahshaka.md) (mana manipulation, enchanting)
   - \>100 Affinity Effects:
     - Decreases decay speed of enchantments
     - Decreases size of enchantments (increasing the amount that can be placed on one item, outside of changing the item)
@@ -49,7 +49,7 @@ These are in the format of: `Element (potential usages/capabilities)`
 
 #### Deities
 
-- [Godly](Godly.md) (reality manipulation, hierarchy)
+- [Godly](/Godly.md) (reality manipulation, hierarchy)
   - Affinity Effects:
     - Greater affinity means being higher in the hierarchy of deities.
 
@@ -76,9 +76,9 @@ These are in the format of: `Element (potential usages/capabilities)`
 
 ### Otherwise Restricted Elements
 
-- [Chrono](Chrono.md) (time manipulation)
-- [Nyra](Nyra.md) (a more powerful alternative for any other kind of magic, excluding Void and Godly)
-- [Void](Void.md) (multi-purpose, magic resistance)
+- [Chrono](/Chrono.md) (time manipulation)
+- [Nyra](/Nyra.md) (a more powerful alternative for any other kind of magic, excluding Void and Godly)
+- [Void](/Void.md) (multi-purpose, magic resistance)
 
 ## Opposing Elements and Interactions
 
