@@ -1,6 +1,6 @@
 # Elements
 
-The main elements are described in this file, with some of the unique ones getting their own files.
+The main elements are described in this file, with some unique ones getting their own files.
 
 ## Affinities
 
@@ -22,63 +22,63 @@ These are in the format of: `Element (potential usages/capabilities)`
 
 ### Non-Restricted Elements
 
-- Arcane (telekinesis, telepathy, 'force')
-- White (shielding, healing)
-- Dark (stealth, confusion)
-- Fire (fire, heat, explosions, offense)
-- Ice (piercing, cold, ice, barriers, offense)
-- Water (water, barriers, offense)
-- Air (air, wind, movement, defense)
-- Earth (construction, barriers, piercing, smashing, offense)
-- Lightning (lightning, offense)
-- Sound (muffling sound, amplifying sound)
-- Spatial (storage, portals, teleportation, realms) <sub>Author's Note: Pending it's own file...</sub>
+- Arcane (telekinesis, telepathy, 'force').
+- White (shielding, healing).
+- Dark (stealth, confusion).
+- Fire (fire, heat, explosions, offense).
+- Ice (piercing, cold, ice, barriers, offense).
+- Water (water, barriers, offense).
+- Air (air, wind, movement, defense).
+- Earth (construction, barriers, piercing, smashing, offense).
+- Lightning (lightning, offense).
+- Sound (muffling sound, amplifying sound).
+- Spatial (storage, portals, teleportation, realms) <sub>Author's Note: Pending its own file…</sub>
   - \>100 Affinity Effects:
-    - Increases the space available for storage
-    - Increases range for teleportation
-    - Increases range and size of portals
-    - Increases control over realm creation
-- [Creation](./Creation.md) (creating things)
-- [Ahshaka](./Ahshaka.md) (mana manipulation, enchanting)
+    - Increases the space available for storage.
+    - Increases range for teleportation.
+    - Increases range and size of portals.
+    - Increases control over realm creation.
+- [Creation](https://lys.ee/rp/Opportunity/Magic/Elements/Creation.md) (creating things).
+- [Ahshaka](https://lys.ee/rp/Opportunity/Magic/Elements/Ahshaka.md) (mana manipulation, enchanting).
   - \>100 Affinity Effects:
-    - Decreases decay speed of enchantments
-    - Decreases size of enchantments (increasing the amount that can be placed on one item, outside of changing the item)
-    - Increases the amount of mana that can be manipulated
+    - Decreases decay speed of enchantments.
+    - Decreases size of enchantments (increasing the amount that can be placed on one item, without changing the item).
+    - Increases the amount of mana that can be manipulated.
 
 ### Racially Restricted Elements
 
 #### Deities
 
-- [Godly](./Godly.md) (reality manipulation, hierarchy)
+- [Godly](https://lys.ee/rp/Opportunity/Magic/Elements/Godly.md) (reality manipulation, hierarchy).
   - Affinity Effects:
     - Greater affinity means being higher in the hierarchy of deities.
 
 #### Heavenly Plane
 
-- Angelic (shielding, healing, offense)
+- Angelic (shielding, healing, offense).
   - Affinity Effects:
-    - Lowered weakness to Demonic
+    - Lowered weakness to Demonic.
 
 #### Hell Plane
 
-- Demonic (corruption, offense, shielding)
+- Demonic (corruption, offense, shielding).
   - Affinity Effects:
-    - Lowered weakness to Angelic
-- Nether (corruption, manipulation, speed)
+    - Lowered weakness to Angelic.
+- Nether (corruption, manipulation, speed).
 
 #### Elves
 
-- Nature (plant manipulation, localized atmosphere manipulation, travel, defense)
+- Nature (plant manipulation, localized atmosphere manipulation, travel, defense).
 
 #### Dwarves
 
-- Metal (metal manipulation, forging, defense)
+- Metal (metal manipulation, forging, defense).
 
 ### Otherwise Restricted Elements
 
-- [Chrono](./Chrono.md) (time manipulation)
-- [Nyra](./Nyra.md) (a more powerful alternative for any other kind of magic, excluding Void and Godly)
-- [Void](./Void.md) (multi-purpose, magic resistance)
+- [Chrono](https://lys.ee/rp/Opportunity/Magic/Elements/Chrono.md) (time manipulation).
+- [Nyra](https://lys.ee/rp/Opportunity/Magic/Elements/Nyra.md) (a more powerful alternative for any other kind of magic, excluding Void and Godly).
+- [Void](https://lys.ee/rp/Opportunity/Magic/Elements/Void.md) (multi-purpose, magic resistance).
 
 ## Opposing Elements and Interactions
 

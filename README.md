@@ -4,20 +4,24 @@ Opportunity is my slowly building fantasy universe project.
 
 ## Characters
 
-See [`Characters/`](./Characters/)
+See [`Characters/`](https://lys.ee/rp/Opportunity/Characters/)
 
 ## Magic
 
-See [`Magic/`](./Magic/)
+See [`Magic/`](https://lys.ee/rp/Opportunity/Magic/)
 
 ## Technology
 
-See [`Technology/`](./Technology/)
+See [`Technology/`](https://lys.ee/rp/Opportunity/Technology/)
 
 ## Races
 
-See [`Races/`](./Races/)
+See [`Races/`](https://lys.ee/rp/Opportunity/Races/)
 
 ## World
 
-See [`World/`](./World/)
+See [`World/`](https://lys.ee/rp/Opportunity/World/)
+
+## Tidbits
+
+See [`Tidbits/`](https://lys.ee/rp/Opportunity/Tidbits/)

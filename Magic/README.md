@@ -16,11 +16,11 @@ This "unit" is generally described as amount of charge in a perfect second-class
 
 ## Elements
 
-See [Elements/](Elements/)
+See [Elements/](https://lys.ee/rp/Opportunity/Magic/Elements/)
 
 ## Laws
 
-See [Laws/](Laws/)
+See [Laws/](https://lys.ee/rp/Opportunity/Magic/Laws/)
 
 ## Mana Purity
 

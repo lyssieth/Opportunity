@@ -4,19 +4,23 @@ Various details about the world go here.
 
 ## Continent Names
 
-See [Continent Names](Continent%20Names.md)
+See [Continent Names](https://lys.ee/rp/Opportunity/World/Continent%20Names.md)
 
 ## Major Travel Methods
 
-See [Major Travel Methods](Major%20Travel%20Methods.md)
+See [Major Travel Methods](https://lys.ee/rp/Opportunity/World/Major%20Travel%20Methods.md)
 
 ## Major Factions
 
-See [Major Factions](Major%20Factions.md)
+See [Major Factions](https://lys.ee/rp/Opportunity/World/Major%20Factions.md)
 
 ## Major Countries
 
-see [Major Countries](Major%20Countries.md)
+See [Major Countries](https://lys.ee/rp/Opportunity/World/Major%20Countries.md)
+
+## Public Mana Infrastructure
+
+See [Public Mana Infrastucture](https://lys.ee/rp/Opportunity/World/Public%20Mana%20Infrastructure)
 
 ## Map (WIP)
 
