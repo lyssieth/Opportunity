@@ -24,4 +24,4 @@ See [Public Mana Infrastucture](https://lys.ee/rp/Opportunity/World/Public%20Man
 
 ## Map (WIP)
 
-![World Map](https://lys.ee/public/assets/Opportunity/map.png)
+![World Map](https://content.lys.ee/156e35f7a906770bfc74985739652c944b634a63aa62d687d710d95b9141f500.png)
